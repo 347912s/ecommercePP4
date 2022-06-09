@@ -1,4 +1,4 @@
-package pl.rgrybo.productcatalog;
+package pl.rgrybos.productcatalog;
 
 import org.junit.jupiter.api.Test;
 
