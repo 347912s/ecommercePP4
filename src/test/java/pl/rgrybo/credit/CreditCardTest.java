@@ -1,4 +1,4 @@
-package pl.rgrybo.credit;
+package pl.rgrybos.credit;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
