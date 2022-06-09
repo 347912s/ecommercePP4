@@ -1,4 +1,4 @@
-package pl.jkanclerz;
+package pl.rgrybos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
