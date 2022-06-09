@@ -1,4 +1,4 @@
-package pl.jkanclerz.sales;
+package pl.rgrybo.sales;
 
 import java.util.HashMap;
 import java.util.Map;
