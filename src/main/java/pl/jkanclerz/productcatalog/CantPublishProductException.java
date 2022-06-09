@@ -1,4 +1,4 @@
-package pl.jkanclerz.productcatalog;
+package pl.rgrybo.productcatalog;
 
 public class CantPublishProductException
         extends IllegalStateException {
