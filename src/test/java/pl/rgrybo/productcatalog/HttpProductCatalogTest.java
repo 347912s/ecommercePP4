@@ -1,4 +1,4 @@
-package pl.rgrybos.productcatalog;
+package pl.rgrybo.productcatalog;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
