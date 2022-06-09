@@ -1,4 +1,4 @@
-package pl.rgrybos;
+package pl.rgrybo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
