@@ -1,4 +1,4 @@
-package pl.jkanclerz.productcatalog;
+package pl.rgrybo.productcatalog;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
