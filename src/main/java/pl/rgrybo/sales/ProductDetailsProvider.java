@@ -1,4 +1,4 @@
-package pl.jkanclerz.sales;
+package pl.rgrybo.sales;
 
 public class ProductDetailsProvider {
     public ProductDetails getById(String productId) {
