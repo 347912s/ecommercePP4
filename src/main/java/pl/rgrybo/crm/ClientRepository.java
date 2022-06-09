@@ -1,4 +1,4 @@
-package pl.jkanclerz.crm;
+package pl.rgrybo.crm;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
