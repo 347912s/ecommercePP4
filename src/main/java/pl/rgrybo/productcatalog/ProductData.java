@@ -1,4 +1,4 @@
-package pl.jkanclerz.productcatalog;
+package pl.rgrybo.productcatalog;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
