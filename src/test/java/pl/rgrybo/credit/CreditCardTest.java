@@ -1,4 +1,4 @@
-package pl.jkanclerz.credit;
+package pl.rgrybo.credit;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
